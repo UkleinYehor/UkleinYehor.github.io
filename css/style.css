@@ -78,6 +78,8 @@ html,
            -ms-flex-wrap: wrap;
                flex-wrap: wrap;
            position: static;
+           flex-direction: column;
+           align-items: center;
        }
        .logo {
            -ms-grid-column-align: center;
